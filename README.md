@@ -43,6 +43,8 @@ pip install pandas
 3. Run the chatbot:
 python chatbot.py
 
+---
+
 ## ✨Features
 ✅ Preloaded FAQ responses
 
@@ -53,6 +55,8 @@ python chatbot.py
 ✅ Appends new Q&A to CSV for future sessions
 
 ✅ Beginner-friendly code for AI exploration
+
+---
 
 ## 🌱 Learning Goals
 This project was created as part of my AI learning journey, using:
